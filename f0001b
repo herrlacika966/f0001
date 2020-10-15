@@ -1,0 +1,4 @@
+print('Rásír a sok kis malac is!')
+print('"Én is, én is, én is, én is!"')
+
+#Itt már a kód rendessen működik.A ' jelek megfelelő helyen vannak.
