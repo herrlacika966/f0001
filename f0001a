@@ -1,0 +1,4 @@
+print('...Hogyha én ezt tudtam volna)
+print('Köpönyeget hoztam vóna'!)
+
+#Hibás a kód. az elsőnél a végén nincs '-jel, a másodiknál pedig a ! a ' kivűl van.
